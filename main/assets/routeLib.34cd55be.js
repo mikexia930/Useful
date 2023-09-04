@@ -1,0 +1,1 @@
+import{r as a}from"./index.611b52b0.js";var s=(r=>(r.Replace="replace",r.Push="push",r))(s||{});function p(r,e){switch(r){case"push":a.push(e);break;case"replace":a.replace(e);break}}export{s as E,p as r};

@@ -1,0 +1,1 @@
+import{m as a}from"./index.611b52b0.js";var o=(r=>(r.Info="info",r.Success="success",r.Warning="warning",r.Error="error",r))(o||{});a.config({maxCount:3});function n(r,c){switch(r){case"info":a.info(c);break;case"success":a.success(c);break;case"warning":a.warning(c);break;case"error":a.error(c);break}}export{o as E,n as s};
