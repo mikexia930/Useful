@@ -1,0 +1,1 @@
+import{l,s as o}from"./index.3deece30.js";function s(t,e){let n;return t.hasOwnProperty(e)?n=t[e]:n=!1,n}function g(t,e){const n=e.split(".");let a=t;for(let r=0;r<n.length;r+=1)if(a=s(a,n[r]),!a){a=e;break}return a}function f(t){return g(l(o.lang),t)}export{f as g};
