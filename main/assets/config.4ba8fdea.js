@@ -1,0 +1,1 @@
+function c(t,e){return new Promise((r,a)=>{try{localStorage.setItem(t,JSON.stringify(e)),r("")}catch(s){a(s)}})}function g(t){return new Promise((e,r)=>{try{const a=localStorage.getItem(t);e(JSON.parse(a))}catch(a){r(a)}})}var o=(t=>(t.MD="md",t.TXT="txt",t.HTML="html",t.PDF="pdf",t.CUSTOM="custom",t))(o||{});const n="PDFStorage";export{n as C,o as E,c as a,g as s};
