@@ -1,1 +1,0 @@
-import{d as s,p as a,o as c,c as r,X as u,a7 as e,g as t}from"./index.faab34ef.js";const l={class:"tw-flex tw-items-center tw-justify-center tw-text-xl tw-h-full"},_={name:"Notfound"},m=s({..._,setup(i){const o=a(),{module:n}=o.params;return(p,d)=>(c(),r("div",l,u(e(n)?e(t)("notice.openModule"):e(t)("notice.noneModule")),1))}});export{m as default};
