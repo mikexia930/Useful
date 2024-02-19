@@ -23,12 +23,12 @@
 * Test and parse Api
 * Process time
 * Headers
+* Generate API Document
 
 ### Web Socket
 * Test socket request
 
 ## Usage
-
 1. Clone Or down from GitHub;
 2. Open Chrome & Find "Extension" inlet;
 3. Find "Dev mode" and switch on it;
