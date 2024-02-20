@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper.cdc0426e.js";import{_ as a}from"./index.4577ad4a.js";import{o as e,x as s,w as n,ag as m,a2 as _,a3 as p}from"./index.ac9cedc9.js";const c={name:"DFormItem"};function i(o,f,l,u,d,$){const t=a;return e(),s(t,_(p(o.$attrs)),{default:n(()=>[m(o.$slots,"default")]),_:3},16)}const h=r(c,[["render",i]]);export{h as D};
