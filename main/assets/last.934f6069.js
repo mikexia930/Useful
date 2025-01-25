@@ -1,1 +1,0 @@
-import{c as d,f as i}from"./findIndex.df2567c0.js";import{dA as v,aS as m}from"./index.c3214609.js";function b(r){return function(n,f,u){var a=Object(n);if(!v(n)){var s=d(f);n=m(n),f=function(t){return s(a[t],t,a)}}var e=r(n,f,u);return e>-1?a[s?n[e]:e]:void 0}}var x=b(i);const A=x;function I(r){var n=r==null?0:r.length;return n?r[n-1]:void 0}export{A as f,I as l};
